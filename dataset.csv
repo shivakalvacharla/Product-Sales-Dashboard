@@ -1,0 +1,151 @@
+Transaction_ID,Date,Product_Category,Product_Name,Units_Sold,Unit_Price_USD,Total_Revenue_USD,Payment_Method,Region
+TXN-1001,2026-01-01,Electronics,Wireless Mouse,3,25.00,75.00,Credit Card,North America
+TXN-1002,2026-01-01,Home Goods,Ceramic Coffee Mug,4,12.50,50.00,PayPal,Europe
+TXN-1003,2026-01-02,Apparel,Organic Cotton T-Shirt,2,22.00,44.00,Debit Card,Asia-Pacific
+TXN-1004,2026-01-02,Electronics,Mechanical Keyboard,1,85.00,85.00,Credit Card,North America
+TXN-1005,2026-01-03,Fitness,Yoga Mat,5,28.00,140.00,Credit Card,Europe
+TXN-1006,2026-01-03,Beauty,Hydrating Face Serum,2,35.00,70.00,PayPal,Latin America
+TXN-1007,2026-01-04,Home Goods,Scented Candle,6,15.00,90.00,Debit Card,North America
+TXN-1008,2026-01-04,Electronics,Noise-Cancelling Headphones,1,199.00,199.00,Credit Card,Europe
+TXN-1009,2026-01-05,Apparel,Denim Jacket,1,68.00,68.00,PayPal,North America
+TXN-1010,2026-01-05,Fitness,Resistance Bands Set,4,18.00,72.00,Credit Card,Asia-Pacific
+TXN-1011,2026-01-06,Office,Ergonomic Mousepad,3,14.50,43.50,Debit Card,Europe
+TXN-1012,2026-01-06,Electronics,USB-C Hub Multiport,2,42.00,84.00,Credit Card,North America
+TXN-1013,2026-01-07,Beauty,Sunscreen SPF 50,3,24.00,72.00,PayPal,Asia-Pacific
+TXN-1014,2026-01-07,Home Goods,Stainless Steel Water Bottle,5,20.00,100.00,Credit Card,North America
+TXN-1015,2026-01-08,Apparel,Running Shoes,1,110.00,110.00,Credit Card,Europe
+TXN-1016,2026-01-08,Fitness,Adjustable Dumbbell Set,1,180.00,180.00,Credit Card,North America
+TXN-1017,2026-01-09,Electronics,Portable Bluetooth Speaker,2,55.00,110.00,PayPal,Latin America
+TXN-1018,2026-01-09,Office,Gel Pen Pack (10ct),10,8.00,80.00,Debit Card,North America
+TXN-1019,2026-01-10,Home Goods,Microfiber Bed Sheet Set,2,45.00,90.00,Credit Card,Europe
+TXN-1020,2026-01-10,Beauty,Charcoal Clay Mask,4,19.00,76.00,PayPal,Asia-Pacific
+TXN-1021,2026-01-11,Electronics,HD Webcam 1080p,2,49.00,98.00,Credit Card,North America
+TXN-1022,2026-01-11,Apparel,Wool Blend Scarf,3,26.00,78.00,Debit Card,Europe
+TXN-1023,2026-01-12,Fitness,Foam Roller,2,21.00,42.00,PayPal,North America
+TXN-1024,2026-01-12,Office,Mesh Desk Organizer,1,22.50,22.50,Credit Card,Asia-Pacific
+TXN-1025,2026-01-13,Electronics,Wireless Charging Pad,3,19.99,59.97,Credit Card,North America
+TXN-1026,2026-01-13,Home Goods,Electric Kettle,1,34.00,34.00,Debit Card,Europe
+TXN-1027,2026-01-14,Beauty,Argan Hair Oil,2,28.50,57.00,PayPal,North America
+TXN-1028,2026-01-14,Apparel,Cotton Pullover Hoodie,2,48.00,96.00,Credit Card,Europe
+TXN-1029,2026-01-15,Fitness,Jump Rope,5,11.00,55.00,Debit Card,Asia-Pacific
+TXN-1030,2026-01-15,Electronics,External SSD 1TB,1,105.00,105.00,Credit Card,North America
+TXN-1031,2026-01-16,Office,Daily Planner Notebook,4,16.00,64.00,PayPal,North America
+TXN-1032,2026-01-16,Home Goods,Bamboo Cutting Board,2,24.00,48.00,Credit Card,Europe
+TXN-1033,2026-01-17,Electronics,Smart Fitness Tracker,2,69.00,138.00,Credit Card,Asia-Pacific
+TXN-1034,2026-01-17,Apparel,Athletic Ankle Socks (6pk),4,14.00,56.00,Debit Card,North America
+TXN-1035,2026-01-18,Beauty,Exfoliating Body Scrub,3,17.50,52.50,PayPal,Europe
+TXN-1036,2026-01-18,Fitness,Gym Duffel Bag,1,39.00,39.00,Credit Card,North America
+TXN-1037,2026-01-19,Home Goods,French Press Coffee Maker,2,29.00,58.00,Credit Card,Europe
+TXN-1038,2026-01-19,Electronics,Gaming Mouse Bungee,2,16.00,32.00,Debit Card,Latin America
+TXN-1039,2026-01-20,Office,LED Desk Lamp,1,36.00,36.00,Credit Card,North America
+TXN-1040,2026-01-20,Apparel,Thermal Base Layer,2,32.00,64.00,PayPal,Europe
+TXN-1041,2026-01-21,Fitness,Pull-Up Bar,1,45.00,45.00,Credit Card,North America
+TXN-1042,2026-01-21,Beauty,Lip Sleeping Mask,5,14.00,70.00,Debit Card,Asia-Pacific
+TXN-1043,2026-01-22,Electronics,Braided HDMI Cable 6ft,4,9.50,38.00,Credit Card,North America
+TXN-1044,2026-01-22,Home Goods,Throw Pillow Covers (Set of 2),3,18.00,54.00,PayPal,Europe
+TXN-1045,2026-01-23,Apparel,Casual Chino Pants,2,42.00,84.00,Credit Card,North America
+TXN-1046,2026-01-23,Office,Document Shredder,1,54.00,54.00,Debit Card,Europe
+TXN-1047,2026-01-24,Electronics,Dual Monitor Arm,1,72.00,72.00,Credit Card,North America
+TXN-1048,2026-01-24,Fitness,Insulated Protein Shaker,3,15.00,45.00,PayPal,Asia-Pacific
+TXN-1049,2026-01-25,Beauty,Vitamin C Brightening Serum,2,31.00,62.00,Credit Card,Europe
+TXN-1050,2026-01-25,Home Goods,Non-Stick Frying Pan 10in,1,38.00,38.00,Debit Card,North America
+TXN-1051,2026-01-26,Electronics,Wireless Earbuds,2,79.00,158.00,Credit Card,North America
+TXN-1052,2026-01-26,Apparel,Waterproof Rain Jacket,1,89.00,89.00,PayPal,Europe
+TXN-1053,2026-01-27,Fitness,Exercise Ball 65cm,2,22.00,44.00,Debit Card,Asia-Pacific
+TXN-1054,2026-01-27,Office,Standing Desk Converter,1,149.00,149.00,Credit Card,North America
+TXN-1055,2026-01-28,Home Goods,Electric Milk Frother,3,16.50,49.50,Credit Card,Europe
+TXN-1056,2026-01-28,Beauty,Gentle Foaming Cleanser,4,18.00,72.00,PayPal,North America
+TXN-1057,2026-01-29,Electronics,Power Bank 20000mAh,2,39.00,78.00,Credit Card,Latin America
+TXN-1058,2026-01-29,Apparel,Merino Wool Socks,5,16.00,80.00,Debit Card,Europe
+TXN-1059,2026-01-30,Fitness,Kettlebell 16kg,1,52.00,52.00,Credit Card,North America
+TXN-1060,2026-01-30,Office,Fountain Pen,2,27.00,54.00,PayPal,Asia-Pacific
+TXN-1061,2026-01-31,Home Goods,Air Purifier Filter Replacement,2,29.99,59.98,Credit Card,North America
+TXN-1062,2026-01-31,Electronics,Screen Cleaner Kit,6,8.50,51.00,Debit Card,Europe
+TXN-1063,2026-02-01,Beauty,Nourishing Night Cream,2,42.00,84.00,Credit Card,North America
+TXN-1064,2026-02-01,Apparel,Canvas Sneaker Shoes,1,58.00,58.00,PayPal,Asia-Pacific
+TXN-1065,2026-02-02,Fitness,Workout Gloves,3,16.00,48.00,Credit Card,Europe
+TXN-1066,2026-02-02,Electronics,Smart Plug Mini (2pk),2,21.00,42.00,Debit Card,North America
+TXN-1067,2026-02-03,Office,Sticky Notes Value Pack,8,6.50,52.00,PayPal,North America
+TXN-1068,2026-02-03,Home Goods,Silicone Baking Mats (2pk),3,14.00,42.00,Credit Card,Europe
+TXN-1069,2026-02-04,Beauty,Rosewater Facial Toner,3,15.50,46.50,Credit Card,Asia-Pacific
+TXN-1070,2026-02-04,Electronics,Mini DisplayPort to HDMI Adapter,4,11.00,44.00,Debit Card,North America
+TXN-1071,2026-02-05,Apparel,Fleece Lined Leggings,2,28.00,56.00,Credit Card,Europe
+TXN-1072,2026-02-05,Fitness,Pilates Ring,2,19.50,39.00,PayPal,North America
+TXN-1073,2026-02-06,Home Goods,Cast Iron Skillet 12in,1,44.00,44.00,Credit Card,North America
+TXN-1074,2026-02-06,Office,Under-Desk Footrest,1,32.00,32.00,Debit Card,Europe
+TXN-1075,2026-02-07,Electronics,Wireless Presenter Clicker,2,23.00,46.00,Credit Card,Asia-Pacific
+TXN-1076,2026-02-07,Beauty,Mineral Sunscreen Stick,4,16.00,64.00,PayPal,North America
+TXN-1077,2026-02-08,Apparel,Classic Leather Belt,2,34.00,68.00,Credit Card,Europe
+TXN-1078,2026-02-08,Fitness,Ab Roller Wheel,3,17.00,51.00,Debit Card,North America
+TXN-1079,2026-02-09,Home Goods,Ceramic Plant Pot 8in,2,21.00,42.00,PayPal,Europe
+TXN-1080,2026-02-09,Electronics,Ring Light with Tripod,1,39.99,39.99,Credit Card,North America
+TXN-1081,2026-02-10,Office,Cable Management Clips (20pk),5,7.50,37.50,Debit Card,Asia-Pacific
+TXN-1082,2026-02-10,Beauty,Hyaluronic Acid Essence,2,26.00,52.00,Credit Card,North America
+TXN-1083,2026-02-11,Apparel,Cotton Button-Down Shirt,2,44.00,88.00,PayPal,Europe
+TXN-1084,2026-02-11,Fitness,Speed Jump Rope,4,13.00,52.00,Credit Card,North America
+TXN-1085,2026-02-12,Electronics,USB Microphone,1,65.00,65.00,Credit Card,Latin America
+TXN-1086,2026-02-12,Home Goods,Digital Kitchen Scale,3,16.00,48.00,Debit Card,Europe
+TXN-1087,2026-02-13,Office,Laptop Cooling Pad,2,29.00,58.00,PayPal,North America
+TXN-1088,2026-02-13,Beauty,Tea Tree Spot Treatment,3,13.50,40.50,Credit Card,Asia-Pacific
+TXN-1089,2026-02-14,Apparel,Silk Pillowcase,2,36.00,72.00,Credit Card,Europe
+TXN-1090,2026-02-14,Electronics,Bluetooth Audio Transmitter,2,27.00,54.00,Debit Card,North America
+TXN-1091,2026-02-15,Fitness,Weighted Vest 10kg,1,74.00,74.00,Credit Card,North America
+TXN-1092,2026-02-15,Home Goods,Glass Food Storage Containers (5pk),2,32.00,64.00,PayPal,Europe
+TXN-1093,2026-02-16,Office,Heavy Duty Stapler,1,18.00,18.00,Debit Card,Asia-Pacific
+TXN-1094,2026-02-16,Beauty,Tinted Lip Balm,6,8.00,48.00,Credit Card,North America
+TXN-1095,2026-02-17,Electronics,Tablet Stand Aluminum,2,24.00,48.00,Credit Card,Europe
+TXN-1096,2026-02-17,Apparel,Water-Resistant Windbreaker,1,64.00,64.00,PayPal,North America
+TXN-1097,2026-02-18,Fitness,Gym Chalk Block,4,9.00,36.00,Debit Card,North America
+TXN-1098,2026-02-18,Home Goods,Cold Brew Coffee Maker,1,28.00,28.00,Credit Card,Europe
+TXN-1099,2026-02-19,Electronics,Gaming Mouse Pad XXL,2,22.00,44.00,Credit Card,Asia-Pacific
+TXN-1100,2026-02-19,Office,Dry Erase Whiteboard,1,38.00,38.00,PayPal,North America
+TXN-1101,2026-02-20,Beauty,Revitalizing Eye Cream,2,33.00,66.00,Credit Card,Europe
+TXN-1102,2026-02-20,Apparel,Knit Beanie,3,15.00,45.00,Debit Card,North America
+TXN-1103,2026-02-21,Fitness,Balance Disc Trainer,2,24.50,49.00,Credit Card,Latin America
+TXN-1104,2026-02-21,Electronics,Surge Protector Power Strip,3,21.00,63.00,Debit Card,North America
+TXN-1105,2026-02-22,Home Goods,Stainless Steel Measuring Spoons,4,11.00,44.00,PayPal,Europe
+TXN-1106,2026-02-22,Office,Correction Tape Pack (6pk),6,9.00,54.00,Credit Card,Asia-Pacific
+TXN-1107,2026-02-23,Beauty,Micellar Cleansing Water,3,14.00,42.00,Credit Card,North America
+TXN-1108,2026-02-23,Apparel,Lightweight Cardigan,2,39.00,78.00,PayPal,Europe
+TXN-1109,2026-02-24,Electronics,Smart LED Light Bulb (4pk),2,34.00,68.00,Credit Card,North America
+TXN-1110,2026-02-24,Fitness,Agility Ladder 15ft,1,26.00,26.00,Debit Card,North America
+TXN-1111,2026-02-25,Home Goods,Aromatherapy Oil Diffuser,2,27.00,54.00,Credit Card,Europe
+TXN-1112,2026-02-25,Office,Wireless Ergonomic Keyboard,1,92.00,92.00,Credit Card,Asia-Pacific
+TXN-1113,2026-02-26,Beauty,Peptide Face Moisturizer,2,38.00,76.00,PayPal,North America
+TXN-1114,2026-02-26,Apparel,Compression Running Tights,2,36.00,72.00,Debit Card,Europe
+TXN-1115,2026-02-27,Electronics,Ethernet Cable Cat6 25ft,4,12.00,48.00,Credit Card,North America
+TXN-1116,2026-02-27,Fitness,Deep Tissue Massage Ball,3,12.50,37.50,PayPal,Latin America
+TXN-1117,2026-02-28,Home Goods,Memory Foam Bed Pillow,2,42.00,84.00,Credit Card,North America
+TXN-1118,2026-02-28,Office,Filing Folders Box (50ct),2,23.00,46.00,Debit Card,Europe
+TXN-1119,2026-03-01,Electronics,Fast Wall Charger 65W,3,29.99,89.97,Credit Card,North America
+TXN-1120,2026-03-01,Beauty,Biotin Hair Treatment,2,25.00,50.00,PayPal,Asia-Pacific
+TXN-1121,2026-03-02,Apparel,Casual Linen Shorts,2,34.00,68.00,Credit Card,Europe
+TXN-1122,2026-03-02,Fitness,Yoga Block Set (2pk),3,18.00,54.00,Debit Card,North America
+TXN-1123,2026-03-03,Home Goods,Insulated Travel Tumbler,4,19.00,76.00,Credit Card,North America
+TXN-1124,2026-03-03,Office,Highlighter Set (8 Colors),5,8.00,40.00,PayPal,Europe
+TXN-1125,2026-03-04,Electronics,Noise Isolating In-Ear Monitors,1,59.00,59.00,Credit Card,Asia-Pacific
+TXN-1126,2026-03-04,Beauty,Volumizing Mascara,4,15.00,60.00,Debit Card,North America
+TXN-1127,2026-03-05,Apparel,Polarized Sunglasses,2,45.00,90.00,Credit Card,Europe
+TXN-1128,2026-03-05,Fitness,Exercise Sliders,3,13.00,39.00,PayPal,North America
+TXN-1129,2026-03-06,Home Goods,Over-the-Door Shoe Rack,1,28.00,28.00,Credit Card,Latin America
+TXN-1130,2026-03-06,Electronics,Stylus Pen for Touchscreens,2,31.00,62.00,Debit Card,North America
+TXN-1131,2026-03-07,Office,Desk Blotter Leather Pad,1,26.00,26.00,Credit Card,Europe
+TXN-1132,2026-03-07,Beauty,Exfoliating Foot Peel Mask,3,12.00,36.00,PayPal,Asia-Pacific
+TXN-1133,2026-03-08,Apparel,Thermal Winter Gloves,2,22.00,44.00,Credit Card,North America
+TXN-1134,2026-03-08,Fitness,Gym Towel Set (3pk),3,16.50,49.50,Debit Card,Europe
+TXN-1135,2026-03-09,Home Goods,Electric Salt and Pepper Grinders,1,33.00,33.00,Credit Card,North America
+TXN-1136,2026-03-09,Electronics,Portable Bluetooth Keyboard,2,38.00,76.00,PayPal,Asia-Pacific
+TXN-1137,2026-03-10,Office,All-in-One Desk Stapler Set,2,17.00,34.00,Debit Card,North America
+TXN-1138,2026-03-10,Beauty,Soothing Aloe Vera Gel,4,11.50,46.00,Credit Card,Europe
+TXN-1139,2026-03-11,Apparel,Relaxed Fit Denim Jeans,1,55.00,55.00,Credit Card,North America
+TXN-1140,2026-03-11,Fitness,Ankle Weights 5lb Pair,2,24.00,48.00,PayPal,North America
+TXN-1141,2026-03-12,Home Goods,Magnetic Knife Bar,1,25.00,25.00,Debit Card,Europe
+TXN-1142,2026-03-12,Electronics,USB 3.0 Flash Drive 128GB,4,16.00,64.00,Credit Card,Asia-Pacific
+TXN-1143,2026-03-13,Office,Document Storage Box,2,19.00,38.00,Credit Card,North America
+TXN-1144,2026-03-13,Beauty,Nail Cuticle Oil Dropper,5,9.50,47.50,PayPal,Europe
+TXN-1145,2026-03-14,Apparel,Waterproof Hiking Boots,1,125.00,125.00,Credit Card,North America
+TXN-1146,2026-03-14,Fitness,Speed Agility Cones (20pk),2,15.00,30.00,Debit Card,Latin America
+TXN-1147,2026-03-15,Home Goods,Stainless Steel Straw Set,6,7.50,45.00,Credit Card,Europe
+TXN-1148,2026-03-15,Electronics,Adjustable Phone Stand,3,14.00,42.00,PayPal,North America
+TXN-1149,2026-03-16,Office,Hardcover Dot Grid Journal,3,15.00,45.00,Credit Card,North America
+TXN-1150,2026-03-16,Beauty,Hydrating Setting Spray,2,21.00,42.00,Debit Card,Asia-Pacific

@@ -1,0 +1,32 @@
+=================
+ Dashboard Title
+=================
+ Sales of product
+
+============================
+          Cards/KPI
+============================
+TOTAL PRODUCTS
+AVERAGE PRICE 
+TOTAL PRICE
+TOTAL PRODUCT CATEGORY
+AVERAGE SALES
+
+
+====================================
+               SLICERS
+====================================
+Transaction_ID		
+Product_Category	
+Product_Name			
+Payment_Method	
+Region
+
+====================================
+                CHARTS
+====================================
+PRODUCT WISE AVERAGE PRICE
+PRODUCT WISE AVERAGE SALES
+REGION  WISE Price
+category wise price
+date wise sales
